@@ -41,17 +41,8 @@ GeneradorQR/
 ├── QR.py                # Lógica de generación de QR
 ├── requirements.txt     # Dependencias (para desarrollo)
 ├── Creador.bat          # Script para construir el .exe
-├── generar_icono.py     # Script para generar icono
+├── generar_icono.py     # Script para generar icon
 └── README.md            # Este archivo
-```
-
-### Construir el .exe localmente
-```bash
-# 1. Instala dependencias
-python -m pip install -r requirements.txt
-
-# 2. Ejecuta Creador.bat para generar GenerarQR.exe
-.\Creador.bat
 ```
 
 ## Licencia
@@ -60,7 +51,7 @@ Este proyecto está bajo licencia **MIT**. Siéntete libre de usarlo, modificarl
 
 ## Autor
 
-Desarrollado con ❤️ por [Tu Nombre].
+Desarrollado con ❤️ por Victor Orellana.
 
 ## Contribuciones
 
