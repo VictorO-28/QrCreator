@@ -12,17 +12,10 @@ Una aplicación simple y rápida para generar códigos QR con interfaz gráfica 
 ## Instalación
 
 ### Opción 1: Ejecutable directo (Recomendado)
-1. Descarga `GenerarQR.exe` desde [Releases](../../releases).
+1. Descarga `GenerarQR.exe`
 2. Ejecuta el archivo.
 3. ¡Listo! No requiere instalación ni Python.
 
-### Opción 2: Desde código fuente
-```bash
-git clone https://github.com/tu-usuario/GeneradorQR.git
-cd GeneradorQR
-python -m pip install -r requirements.txt
-python main.py
-```
 
 ## Uso
 
