@@ -20,11 +20,14 @@ Una aplicación simple y rápida para generar códigos QR con interfaz gráfica 
 ## Uso
 
 1. Abre `GenerarQR.exe`.
-2. Ingresa un **nombre** para el archivo QR.
-3. Ingresa el **texto o enlace** que deseas codificar.
-4. (Opcional) Haz clic en "Elegir carpeta" para seleccionar dónde guardar.
-5. Haz clic en **"Generar QR"**.
-6. El archivo `.png` se guardará en la carpeta seleccionada.
+2. Se abrira esta interfaz
+<img width="596" height="534" alt="image" src="https://github.com/user-attachments/assets/03ed42b5-a3d3-49e6-8e01-84607d2bfe17" />
+
+3. Ingresa un **nombre** para el archivo QR.
+4. Ingresa el **texto o enlace** que deseas codificar.
+5. (Opcional) Haz clic en "Elegir carpeta" para seleccionar dónde guardar.
+6. Haz clic en **"Generar QR"**.
+7. El archivo `.png` se guardará en la carpeta seleccionada.
 
 ## Requisitos
 
