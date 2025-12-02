@@ -47,6 +47,8 @@ GeneradorQR/
 ├── generar_icono.py     # Script para generar icon
 └── README.md            # Este archivo
 ```
+El resto del codigo de la estructura en el branch creado llamado
+MainCode
 
 ## Licencia
 
